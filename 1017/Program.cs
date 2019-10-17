@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestGame
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             int input = -1;
